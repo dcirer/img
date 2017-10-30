@@ -3,3 +3,11 @@ body{
   color: white;
   font-family: Verdana;
 }
+a{
+  color: white;
+}
+
+.contenedor{
+  margin-top: 10px;
+  margin-left: 20px;
+}
